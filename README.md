@@ -18,6 +18,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niroshan2812&show_icons=true&locale=en" alt="niroshan2812" /></p>
-
 
