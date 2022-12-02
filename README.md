@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niroshan!👀</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niroshan2812&label=Profile%20views&color=0e75b6&style=flat" alt="niroshan2812" /> </p>
 
-- 🌱 I’m currently learning **Bachelor Software Engineering Degree**
+- 🌱 I’m currently fallowing **Bachelor Software Engineering Degree**
 
 - 📫 How to reach me **Niroshan9812@gmail.com**
 
