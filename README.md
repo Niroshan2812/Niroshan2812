@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Niroshan9812@gmail.com**
 
-- ⚡ Fun fact **I love coding 👉👉🎉**
+- ⚡ Fun fact **I love coding 👉👉🎉  but memorizing heaps of code? Not so much. 🙄🙄 **
 
 
 
