@@ -3,9 +3,9 @@
 
 - 🌱 Currently on the exciting journey of pursuing a degree in Software Engineering**
 
-- 📫 How to reach me <a href = "https://niroshan-port-niroshan2812s-projects.vercel.app/">**Niroshan9812@gmail.com**</a>
+- 📫 How to reach me **Niroshan9812@gmail.com**
 
-- Check out my Portfolio 
+- Check out my <a href = "https://niroshan-port-niroshan2812s-projects.vercel.app/">Portfolio </a>
 
 - ⚡ Fun fact **I love coding 👉👉🎉  but memorizing heaps of code? Not so much. 🙄🙄 **
 
