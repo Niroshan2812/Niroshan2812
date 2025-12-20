@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **Niroshan9812@gmail.com**
 
+- Check out my Portfolio 
+
 - ⚡ Fun fact **I love coding 👉👉🎉  but memorizing heaps of code? Not so much. 🙄🙄 **
 
 
