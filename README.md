@@ -3,7 +3,7 @@
 
 - 🌱 Currently on the exciting journey of pursuing a degree in Software Engineering**
 
-- 📫 How to reach me **Niroshan9812@gmail.com**
+- 📫 How to reach me **niroshan9812@gmail.com**
 - 📽️ Checkout my new site - <a href = "https://codecoffeetools.com/">Codecoffeetools</a>
 - Check out my <a href = "https://niroshan-port.vercel.app/">Portfolio </a>
 
