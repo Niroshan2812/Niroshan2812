@@ -30,19 +30,17 @@
   * Hugging Face Transformers
 * **Backend & Security:** Spring Boot, Docker, PostgreSQL, FastAPI, Binary Analysis
 
-### 🤝 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/niroshan-dharmaisiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://huggingface.co/NiroshanDb23" target="blank"><img align="center" src="https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow" alt="HuggingFace" height="30" /></a>
-<a href="https://medium.com/@niroshan98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/niroshan_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
-
 ---
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niroshan2812&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-### 📩 Get in Touch
-* **Email:** [niroshan9812@gmail.com](mailto:niroshan9812@gmail.com)
+### 🤝 Connect & Get in Touch
+
+<p align="center">
+  <a href="mailto:niroshan9812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/niroshan-dharmaisiri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://huggingface.co/NiroshanDb23" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" alt="HuggingFace" /></a>
+  <a href="https://medium.com/@niroshan98" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.hackerrank.com/niroshan_28" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+</p>
