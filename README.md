@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Niroshan</h1>
 <p align="center">
   <strong>Software Engineering Undergraduate | AI Enthusiast | Full-Stack Developer</strong>
@@ -38,6 +40,9 @@
 </p>
 
 ---
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niroshan2812&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ### 📩 Get in Touch
 * **Email:** [niroshan9812@gmail.com](mailto:niroshan9812@gmail.com)
