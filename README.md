@@ -2,7 +2,9 @@
 
 # Hi 👋, I'm Niroshan
 
-**Software Engineering Undergraduate | AI Enthusiast | Full-Stack Developer**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;AI+%26+Agentic+Frameworks;Full-Stack+Developer" alt="Typing SVG" /></a>
+
+<br/>
 
 <a href="https://niroshan-port.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0e75b6?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
 <br/>
@@ -17,7 +19,7 @@
 ### 🚀 About Me
 
 - 🌱 **Currently** pursuing a B.S. in **Software Engineering**.
-- 🤖 **Deeply focused** on exploring the intersection of **Artificial Intelligence** and **Web Technologies**.
+- 🤖 **Deeply focused** on exploring the intersection of **Artificial Intelligence**, **Agentic Frameworks**, and **Web Technologies**.
 - 🛠️ **Building** [CodeCoffeeTools](https://codecoffeetools.com/), a collection of client-side utility tools for developers.
 - 🧠 **Philosophy:** I focus on mastering logic and patterns over memorizing code snippets.
 - 🔍 **Interests:** Enthusiastic about **Reverse Engineering** and understanding low-level system internals.
@@ -61,7 +63,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Niroshan2812&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niroshan2812&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niroshan2812&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
