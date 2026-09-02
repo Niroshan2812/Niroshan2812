@@ -51,10 +51,12 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
-**Backend & Infrastructure**  
+**Backend, Cloud & Infrastructure**  
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Pages"/>
 </p>
 
 ---
@@ -62,8 +64,8 @@
 ### 📊 GitHub Stats & Language Usage
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niroshan2812&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niroshan2812&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niroshan2812&theme=tokyonight" alt="GitHub Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niroshan2812&theme=tokyonight" alt="Top Languages Graph" width="48%" />
 </div>
 
 <br/>
