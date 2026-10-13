@@ -68,6 +68,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niroshan2812&theme=tokyonight" alt="Top Languages Graph" width="48%" />
 </div>
 
+<div align="center">
+  <img src="https://metrics.lecoq.io/Niroshan2812?template=classic&base=0&plugin_habits=yes&plugin_habits_charts=yes&plugin_habits_facts=no" alt="Activity Spider Chart" />
+</div>
+<br/>
 <br/>
 
 <div align="center">
